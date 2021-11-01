@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Abhijeet Dhaka
 #### Working as a Trainee at Crownstack
-![Working as a Trainee at Crownstack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Working as a Trainee at Crownstack]
 
 Hello everyone, My name is Abhijeet Dhaka. Just got placed at Crownstack.
 
